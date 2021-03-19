@@ -1,0 +1,2 @@
+- ☕ Java backend developer
+- 🕹️ Old school MSX programmer
