@@ -3,4 +3,4 @@
 ![The git jedi](Jedi_git.png)
 
 - ☕ Java backend developer
-- 🕹️ MSX programmer by hobby
+- 🕹️ MSX programmer for fun =)
