@@ -1,4 +1,4 @@
-# <h2> Hello, there! </h2>
+# Hello, there! 
 <img align='right' src="Jedi_git.png" width="230">
 
 - ☕ Java backend developer
