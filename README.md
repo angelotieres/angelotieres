@@ -2,6 +2,6 @@
 
 <img align='right' src="Jedi_git.png" width="230">
  
-- ☕  Java sênior developer | Software engineer
-- 💾  Old computers programmer by fun
+- ☕  Java EE, Spring & Quarkus development | Software engineering | Cloud native apps
+- 💾  Old computers & consoles programmer by fun
 
