@@ -9,4 +9,4 @@ This profile is just to:
 - Open Source projects contribution
 - Forks of public projects
 
-My professional projects are in a non-Microsoft-controlled git =)
+My professional projects are in a non-BigTech controlled git =)
