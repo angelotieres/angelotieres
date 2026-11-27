@@ -2,8 +2,9 @@
 
 <img align='right' src="Jedi_git.png" width="230">
  
-- ☕  Java developer :: Jakarta EE | Spring | Quarkus
-- 💾  Old computers & consoles programmer (just 4 fun)
+- 🏴‍☠️  AI for cybersecurity operations development
+- ☕  Java senior :: Jakarta EE | Spring | Quarkus
+- 💾  Old computers & consoles programmer (just4fun)
 
 This profile is just to:
 - Open Source projects contribution
